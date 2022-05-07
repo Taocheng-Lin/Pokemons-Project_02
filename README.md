@@ -7,14 +7,15 @@ Pokemons Dataset searcher
 2. 將原始資料前處理，並儲存成CSV檔，創建SQL資料庫及資料表，用SQLite存儲資料
 3. 使用SQLite對資料進行CRUD，讓管理者能輕鬆修改、新增、查詢或刪除寶可夢資料，並使用DB Browser(SQLite)管理資料庫
 4. 透過操作SQL查詢語法，讓使用者可以根據不同功能查詢寶可夢資料，目前功能如下:
-	1 -- Search Pokemons by Type
-	2 -- Search Pokemons by Name (or Key words)
-	3 -- See how many Pokemons in each Type  
-	4 -- See how many Pokemons in each Species  
-	5 -- Search Top N Pokemons by specific column
-	6 -- Search Pokemons that whose specific column value higher than specific value
-	7 -- See average ability values by Type
-	8 -- According to the Pokemon you input, Search Pokemons that best to defeat it (calculate by Attack pros & cons / Defense pros & cons)(開發中)
+
+		1 -- Search Pokemons by Type
+		2 -- Search Pokemons by Name (or Key words)
+		3 -- See how many Pokemons in each Type  
+		4 -- See how many Pokemons in each Species  
+		5 -- Search Top N Pokemons by specific column
+		6 -- Search Pokemons that whose specific column value higher than specific value
+		7 -- See average ability values by Type
+		8 -- According to the Pokemon you input, Search Pokemons that best to defeat it (calculate by Attack pros & cons / Defense pros & cons)(開發中)
 5. 包裝join、group by、子查詢等SQL語法，讓使用者能輕鬆查詢寶可夢資料
 
 
