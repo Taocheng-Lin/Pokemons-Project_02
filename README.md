@@ -18,7 +18,7 @@ Pokemons Dataset searcher
 5.包裝join、group by、子查詢等SQL語法，讓使用者能輕鬆查詢寶可夢資料
 
 
-# 未來優化方向:
+# 未來優化方向：
 1.可同時查詢多欄位大於指定數值的寶可夢(search檔案功能6)
 2.新增寶可夢克制查詢功能(search檔案功能8)
 3.優化使用者輸入錯誤資料時的回應方式
@@ -28,7 +28,7 @@ Pokemons Dataset searcher
 # 使用技術： Python, SQLite
 
 
-# 實際運行
+# 實際運行：
 
 ## 爬蟲
 ![image](https://user-images.githubusercontent.com/103302287/167241001-32b05dde-e490-41a9-9234-e94a16bc515c.png)
@@ -36,10 +36,10 @@ Pokemons Dataset searcher
 ## 資料前處理
 ![image](https://user-images.githubusercontent.com/103302287/167240978-0b10b246-98c9-4eb3-b64c-2e7ec3db232e.png)
 
-資料庫SQL增刪改查
+## 資料庫SQL增刪改查
 ![image](https://user-images.githubusercontent.com/103302287/167241738-c9ba7f02-5f9f-4bae-b961-17f9099004b3.png)
 
-查詢資料庫的寶可夢資料
+## 查詢資料庫的寶可夢資料
 ![image](https://user-images.githubusercontent.com/103302287/167242580-7a4ce4d2-525b-4bc3-8c95-14478c618409.png)
 
 
