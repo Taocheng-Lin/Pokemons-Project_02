@@ -1,4 +1,5 @@
-# Pokemons_Project
+# Pokemons-Project
+Pokemons Dataset searcher
 
 # 專案目標： 
 1. 從 https://pokemondb.net/pokedex/all 爬取公開資料
